@@ -1,8 +1,6 @@
-## Olá eu me chamo Kauan Araujo Do Carmo, tenho 15 anos e sou desenvolvedor Full Stack
+## Hello, my name is Kauan Araujo Do Carmo, I'm 16 years old and I'm a Full Stack developer
 <div align="center">
   <a href="https://github.com/KauanAraujoDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanAraujoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAraujoDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
