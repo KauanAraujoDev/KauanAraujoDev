@@ -1,4 +1,4 @@
-## Hello, my name is Kauan Araujo Do Carmo, I'm 16 years old and I'm a Full Stack developer
+## Hello, my name is Kauan Araujo Do Carmo, I'm 18 years old and I'm a Full Stack developer
 <div align="center">
   <a href="https://github.com/KauanAraujoDev">
 </div>
